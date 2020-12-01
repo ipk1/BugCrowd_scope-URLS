@@ -5,7 +5,9 @@ Bash script to download all of your private invites URL and all of Public bug bo
 
 
 You will need to install pup from https://github.com/ericchiang/pup ( great tool to grep HTML pages)
+
 Replace <<token>> with your crowdsessionid to pull private scope URL's
+
 If no crowdsessionid is provided then only Public list will be downloaded
  ----------------
   Sample result
